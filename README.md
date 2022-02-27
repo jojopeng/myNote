@@ -1,7 +1,7 @@
 # myNote
 learn !
 
-列表：
+列表：https://zhuanlan.zhihu.com/p/465197334
 
 1. JavaScript数据结构和算法完全解析[javascript-algorithms]
 stars：134k+
