@@ -98,17 +98,17 @@ stars：134k+
 
 JavaScript 项目的一组最佳实践，没有做过完整项目，看这个就够了，包含中文版指南。
 
-18. Node.js 最佳实践[nodebestpractices]() https://github.com/goldbergyoni/nodebestpractices
+18. Node.js 最佳实践[nodebestpractices] https://github.com/goldbergyoni/nodebestpractices
 `stars：74.6k+`
 
 ✅ Node.js 最佳实践列表（2022 年 1 月）
 
-19. [javascript-testing-best-practices]() https://github.com/goldbergyoni/nodebestpractices
+19. [javascript-testing-best-practices] https://github.com/goldbergyoni/nodebestpractices
 `stars：14.4k+`
 
 全面而详尽的 JavaScript 和 Node.js 测试最佳实践（2021 年 8 月）
 
-20. JavaScript面试题[javascript-interview-questions]() https://github.com/sudheerj/javascript-interview-questions
+20. JavaScript面试题[javascript-interview-questions] https://github.com/sudheerj/javascript-interview-questions
 `stars：8k+`
 
 1000 个 JavaScript 面试问题列表，一天一条，学它三年。
